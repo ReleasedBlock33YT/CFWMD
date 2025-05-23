@@ -5,18 +5,18 @@
 
 ---
 
-## [box] Features
+## 📦 Features
 
-- [checkmark] Create '.cfwmd' files
-- [broom] Delete '.cfwmd' files
-- [open_book] Read and display contents
-- [hand_writing] Write a section + data to file
-- [wrench_and_hammer] Packaged as a standalone executable
+- ✔️ Create '.cfwmd' files
+- 🧹 Delete '.cfwmd' files
+- 📖 Read and display contents
+- ✍️ Write a section + data to file
+- 🛠️ Packaged as a standalone executable
 
 
 ---
 
-## [rocketship] Usage
+## 🚀 Usage
 
 - Help for the executable
 cfwmd.exe --help
